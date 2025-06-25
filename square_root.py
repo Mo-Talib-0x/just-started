@@ -5,3 +5,4 @@ num = int(input("Enter the number: "))
 
 square= square_root(num)
 print(square)
+print("sams")
